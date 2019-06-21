@@ -5,6 +5,7 @@ Copyright
 
 Author: Ridley Nelson
 
+Purpopse: Interacts witrh the GPIO pins, when the physical pin 2 is shorted, the python program will run aplay (a music plsyer.)
 """
 
 #send_signal(signal.SIGSTOP)from time import sleep

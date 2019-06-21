@@ -1,6 +1,10 @@
-""" Copyright...
+""" 
+Title: player.py
+
+Copyright
 
 Author: Ridley Nelson
+
 """
 
 #send_signal(signal.SIGSTOP)from time import sleep
